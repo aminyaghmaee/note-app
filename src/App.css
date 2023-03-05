@@ -1,0 +1,16 @@
+* { 
+  box-sizing: border-box;
+  font-family: "Barlow", sans-serif;
+  font-family: "Outfit", sans-serif;
+  font-family: "Signika Negative", sans-serif;
+  font-family: "Tilt Neon", cursive;
+}
+#root{
+  width: 100rem;
+  margin: auto;
+  height: 100vh;
+  margin-top: 4rem;
+}
+.leave{
+width: 24.5rem;
+}
